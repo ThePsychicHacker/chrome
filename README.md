@@ -16,3 +16,4 @@ Now Copy --user-data-dir, Paste it after "$@" like this and Save it. <br>
 <li> Now Open the terminal and type google-chrome --no-sandbox and Now Chrome is opened.</li>
 </ol>
 <b>Due to --no-sandbox the security might suffer so it is recommended to use Google Chrome as a Non-root user.</b>
+<h3>For any Queries You can Email me at <a href="mailto:ahtisham@cyberservices.com">ahtisham@cyberservices.com</a> or Create an Issue here </h3>
